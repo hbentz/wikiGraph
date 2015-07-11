@@ -1,0 +1,13 @@
+Currently developing this engine using the windows python 2.7.10 distro
+
+This is to ensure compatibility with Snap.py (http://snap.stanford.edu/snappy/index.html)
+
+The goal is to create a graph of wikipedia to solve the supreddit /r/degreestohitler
+
+Currently working with the enwiki-20150602-oages-articles.xml as a source
+
+The uncompressed file is far to large for disribution (~52GB), have a torrent file instead.
+
+It might still be useful to pre-process the xml data as parsing this much data into a graph via pipeline may be prohibitively expensive
+
+Once a complete graph has been created it will included in this git
