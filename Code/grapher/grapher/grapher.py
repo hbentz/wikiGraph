@@ -130,7 +130,7 @@ for line in basic:
                 q = False
 
                 #record the link to index
-                currindex = n
+                currIndex = n
 
                 #stop searching
                 break
